@@ -24,7 +24,7 @@ SAMPLE_TENDERS_DIR.mkdir(parents=True, exist_ok=True)
 
 # --- AI Model Settings ---
 OLLAMA_BASE_URL = os.getenv("OLLAMA_BASE_URL", "http://localhost:11434")
-MODEL_NAME = os.getenv("MODEL_NAME", "llama3")
+MODEL_NAME = os.getenv("MODEL_NAME", "qwen2.5-coder:7b")
 EMBEDDING_MODEL = os.getenv("EMBEDDING_MODEL", "sentence-transformers/all-MiniLM-L6-v2")
 
 # --- Processing Settings ---
@@ -34,6 +34,6 @@ MAX_FILE_SIZE_MB = 50
 SUPPORTED_EXTENSIONS = {".pdf"}
 
 # --- RAG Settings ---
-TOP_K_RESULTS = 5
+TOP_K_RESULTS = 3
 COLLECTION_NAME = "tender_documents"
 SDG_COLLECTION_NAME = "sdg_knowledge"
