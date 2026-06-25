@@ -1,0 +1,137 @@
+{
+  "sdg": 12,
+  "name": "Responsible Consumption and Production",
+  "description": "Ensure sustainable consumption and production patterns",
+  "targets": [
+    {
+      "id": "12.1",
+      "name": "Sustainable Consumption and Production Programmes",
+      "description": "Implement the 10-Year Framework of Programmes on Sustainable Consumption and Production Patterns",
+      "tender_keywords": ["sustainable consumption", "sustainable production", "lifecycle", "SCP", "sustainable procurement"],
+      "procurement_criteria": [
+        "Sustainable procurement policy reference",
+        "Life cycle approach in evaluation",
+        "Sustainability scoring in bid evaluation"
+      ]
+    },
+    {
+      "id": "12.2",
+      "name": "Sustainable Management of Natural Resources",
+      "description": "By 2030, achieve the sustainable management and efficient use of natural resources",
+      "tender_keywords": ["natural resources", "raw materials", "resource management", "mineral", "extraction", "water resources", "sustainable sourcing"],
+      "procurement_criteria": [
+        "Sustainable sourcing requirements",
+        "Natural resource management plan",
+        "Water resource efficiency measures",
+        "Raw material sustainability certifications"
+      ]
+    },
+    {
+      "id": "12.3",
+      "name": "Reduce Food Waste",
+      "description": "By 2030, halve per capita global food waste at the retail and consumer levels",
+      "tender_keywords": ["food waste", "food loss", "food management", "catering", "food supply chain"],
+      "procurement_criteria": [
+        "Food waste reduction measures in catering tenders",
+        "Sustainable food sourcing requirements",
+        "Food donation/redistribution clauses"
+      ]
+    },
+    {
+      "id": "12.4",
+      "name": "Chemicals and Waste Management",
+      "description": "By 2020, achieve environmentally sound management of chemicals and all wastes throughout their life cycle",
+      "tender_keywords": ["chemical", "hazardous waste", "toxic", "waste management", "pollutant", "contamination", "disposal", "effluent"],
+      "procurement_criteria": [
+        "Hazardous waste management plan",
+        "Chemical safety data sheets requirement",
+        "Effluent treatment provisions",
+        "Compliance with Hazardous Waste Management Rules",
+        "Safe disposal of construction chemicals"
+      ]
+    },
+    {
+      "id": "12.5",
+      "name": "Reduce Waste Generation",
+      "description": "By 2030, substantially reduce waste generation through prevention, reduction, recycling and reuse",
+      "tender_keywords": ["recycling", "reuse", "reduce", "waste reduction", "circular economy", "waste minimization", "3R", "upcycling"],
+      "procurement_criteria": [
+        "Minimum recycled content requirements",
+        "Construction and demolition waste recycling targets",
+        "Waste minimization plan",
+        "Circular economy principles in material selection",
+        "Extended Producer Responsibility (EPR) compliance"
+      ]
+    },
+    {
+      "id": "12.6",
+      "name": "Corporate Sustainability Reporting",
+      "description": "Encourage companies to adopt sustainable practices and to integrate sustainability information into their reporting cycle",
+      "tender_keywords": ["sustainability report", "CSR", "ESG", "corporate responsibility", "annual report", "GRI", "sustainability disclosure"],
+      "procurement_criteria": [
+        "Sustainability reporting requirements for bidders",
+        "ESG disclosure requirements",
+        "Corporate social responsibility commitments",
+        "GRI or equivalent reporting standards"
+      ]
+    },
+    {
+      "id": "12.7",
+      "name": "Sustainable Public Procurement",
+      "description": "Promote public procurement practices that are sustainable, in accordance with national policies and priorities",
+      "tender_keywords": ["green procurement", "sustainable procurement", "eco-friendly", "green purchasing", "environmental criteria", "GeM green"],
+      "procurement_criteria": [
+        "Green procurement criteria in bid evaluation",
+        "Environmental criteria weightage in scoring",
+        "Preference for eco-labelled products",
+        "Life Cycle Costing (LCC) in bid evaluation",
+        "BEE star rating requirements for equipment"
+      ]
+    },
+    {
+      "id": "12.8",
+      "name": "Awareness for Sustainable Development",
+      "description": "By 2030, ensure that people everywhere have the relevant information and awareness for sustainable development",
+      "tender_keywords": ["awareness", "training", "capacity building", "education", "sustainable development awareness"],
+      "procurement_criteria": [
+        "Sustainability awareness training for workers",
+        "Environmental awareness programs",
+        "Community education components"
+      ]
+    },
+    {
+      "id": "12.a",
+      "name": "Scientific and Technological Capacity",
+      "description": "Support developing countries to strengthen their scientific and technological capacity for sustainable consumption and production",
+      "tender_keywords": ["technology transfer", "innovation", "R&D", "scientific capacity", "clean technology"],
+      "procurement_criteria": [
+        "Technology transfer provisions",
+        "Innovation requirements for sustainable solutions",
+        "R&D collaboration clauses"
+      ]
+    },
+    {
+      "id": "12.b",
+      "name": "Sustainable Tourism",
+      "description": "Develop and implement tools to monitor sustainable development impacts for sustainable tourism",
+      "tender_keywords": ["tourism", "eco-tourism", "sustainable tourism", "heritage tourism"],
+      "procurement_criteria": [
+        "Eco-tourism standards compliance",
+        "Environmental impact monitoring for tourism projects",
+        "Sustainable tourism infrastructure requirements"
+      ]
+    },
+    {
+      "id": "12.c",
+      "name": "Rationalize Fossil-Fuel Subsidies",
+      "description": "Rationalize inefficient fossil-fuel subsidies that encourage wasteful consumption",
+      "tender_keywords": ["fossil fuel", "renewable energy", "solar", "wind", "energy transition", "clean energy", "green energy"],
+      "procurement_criteria": [
+        "Renewable energy integration requirements",
+        "Solar/wind energy provisions",
+        "Energy efficiency mandates",
+        "Phase-out of fossil-fuel dependent equipment"
+      ]
+    }
+  ]
+}

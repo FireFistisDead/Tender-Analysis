@@ -1,0 +1,123 @@
+{
+  "standards": [
+    {
+      "id": "ISO_14001",
+      "name": "ISO 14001 - Environmental Management System",
+      "description": "International standard for environmental management systems, helping organizations improve their environmental performance",
+      "relevance": "Often required or preferred in construction, manufacturing, and infrastructure tenders",
+      "tender_keywords": ["ISO 14001", "EMS", "environmental management system", "environmental certification"],
+      "requirements": [
+        "Environmental policy documentation",
+        "Environmental aspects and impacts assessment",
+        "Legal and regulatory compliance tracking",
+        "Environmental objectives and targets",
+        "Operational control procedures",
+        "Emergency preparedness and response",
+        "Monitoring and measurement of environmental performance"
+      ]
+    },
+    {
+      "id": "GRIHA",
+      "name": "GRIHA - Green Rating for Integrated Habitat Assessment",
+      "description": "India's national green building rating system developed by TERI",
+      "relevance": "Mandatory for certain government buildings, recommended for all public construction",
+      "tender_keywords": ["GRIHA", "green building", "green rating", "habitat assessment", "TERI rating"],
+      "requirements": [
+        "Site selection and planning criteria",
+        "Building envelope optimization",
+        "Energy efficiency in building systems",
+        "Water management and conservation",
+        "Sustainable building materials",
+        "Indoor environmental quality",
+        "Innovation in design and construction"
+      ]
+    },
+    {
+      "id": "IGBC",
+      "name": "IGBC - Indian Green Building Council",
+      "description": "Green building certification system by CII-IGBC with Platinum, Gold, Silver ratings",
+      "relevance": "Widely used green building certification in Indian construction tenders",
+      "tender_keywords": ["IGBC", "green building council", "LEED India", "green building certification", "platinum rating"],
+      "requirements": [
+        "Sustainable site development",
+        "Water efficiency measures",
+        "Energy and atmosphere optimization",
+        "Materials and resources management",
+        "Indoor environmental quality standards"
+      ]
+    },
+    {
+      "id": "BEE_STAR",
+      "name": "BEE Star Rating - Bureau of Energy Efficiency",
+      "description": "Mandatory energy efficiency labeling for appliances and equipment in India",
+      "relevance": "Required for electrical equipment procurement on GeM and government tenders",
+      "tender_keywords": ["BEE", "star rating", "energy efficiency", "energy label", "Bureau of Energy Efficiency", "energy star"],
+      "requirements": [
+        "Minimum star rating for air conditioners (3-star or above)",
+        "Energy efficient lighting (LED requirements)",
+        "Star-rated refrigeration equipment",
+        "Energy efficient motors and pumps",
+        "BEE-certified ceiling fans"
+      ]
+    },
+    {
+      "id": "EPR",
+      "name": "Extended Producer Responsibility",
+      "description": "Producers are responsible for the environmentally sound management of their products post-consumer use",
+      "relevance": "Mandatory for e-waste, plastic waste, battery waste management in procurement",
+      "tender_keywords": ["EPR", "extended producer responsibility", "take-back", "e-waste", "plastic waste", "producer responsibility"],
+      "requirements": [
+        "EPR registration certificate from CPCB",
+        "E-waste collection and recycling plan",
+        "Plastic waste management compliance",
+        "Battery disposal and recycling provisions",
+        "Product take-back mechanism"
+      ]
+    },
+    {
+      "id": "EIA",
+      "name": "Environmental Impact Assessment",
+      "description": "Mandatory assessment of environmental impacts before project approval as per EIA Notification 2006",
+      "relevance": "Required for large infrastructure, industrial, and construction projects",
+      "tender_keywords": ["EIA", "environmental impact", "environmental clearance", "EC", "environment ministry", "MoEFCC"],
+      "requirements": [
+        "Environmental Impact Assessment report",
+        "Public hearing and consultation",
+        "Environmental Management Plan (EMP)",
+        "Baseline environmental data collection",
+        "Impact mitigation measures",
+        "Post-project environmental monitoring"
+      ]
+    },
+    {
+      "id": "NBC_2016",
+      "name": "National Building Code 2016",
+      "description": "India's comprehensive building code covering sustainability, fire safety, and structural requirements",
+      "relevance": "Mandatory reference for all construction tenders in India",
+      "tender_keywords": ["NBC", "National Building Code", "building code", "BIS", "construction standards"],
+      "requirements": [
+        "Sustainable construction practices",
+        "Rainwater harvesting provisions",
+        "Solar energy utilization",
+        "Waste water treatment and recycling",
+        "Energy conservation in buildings",
+        "Accessibility standards for persons with disabilities"
+      ]
+    },
+    {
+      "id": "LCC",
+      "name": "Life Cycle Costing",
+      "description": "Evaluation methodology considering total cost of ownership including environmental externalities",
+      "relevance": "Increasingly mandated in green procurement policies for bid evaluation",
+      "tender_keywords": ["life cycle cost", "LCC", "total cost of ownership", "TCO", "whole life cost", "lifecycle assessment"],
+      "requirements": [
+        "Acquisition cost analysis",
+        "Operating and maintenance cost projection",
+        "Energy consumption cost over lifetime",
+        "Disposal and decommissioning costs",
+        "Environmental externality costing",
+        "Carbon cost estimation"
+      ]
+    }
+  ]
+}

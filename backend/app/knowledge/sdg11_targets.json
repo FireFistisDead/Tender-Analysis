@@ -1,0 +1,127 @@
+{
+  "sdg": 11,
+  "name": "Sustainable Cities and Communities",
+  "description": "Make cities and human settlements inclusive, safe, resilient and sustainable",
+  "targets": [
+    {
+      "id": "11.1",
+      "name": "Safe and Affordable Housing",
+      "description": "By 2030, ensure access for all to adequate, safe and affordable housing and basic services and upgrade slums",
+      "tender_keywords": ["housing", "affordable housing", "slum", "basic services", "shelter", "residential", "habitat"],
+      "procurement_criteria": [
+        "Affordable housing provisions in construction tenders",
+        "Basic services accessibility requirements",
+        "Universal design standards for inclusive housing"
+      ]
+    },
+    {
+      "id": "11.2",
+      "name": "Sustainable Transport Systems",
+      "description": "By 2030, provide access to safe, affordable, accessible and sustainable transport systems for all",
+      "tender_keywords": ["transport", "public transport", "bus", "metro", "road safety", "accessibility", "bicycle", "pedestrian", "mobility"],
+      "procurement_criteria": [
+        "Public transport accessibility requirements",
+        "Low-emission vehicle specifications",
+        "Pedestrian and cyclist infrastructure provisions",
+        "Road safety standards and requirements"
+      ]
+    },
+    {
+      "id": "11.3",
+      "name": "Inclusive Urbanization",
+      "description": "By 2030, enhance inclusive and sustainable urbanization and capacity for participatory planning",
+      "tender_keywords": ["urban planning", "urbanization", "participatory", "community engagement", "inclusive design", "master plan"],
+      "procurement_criteria": [
+        "Community consultation requirements",
+        "Inclusive design standards",
+        "Participatory planning mechanisms",
+        "Social impact assessment requirements"
+      ]
+    },
+    {
+      "id": "11.4",
+      "name": "Cultural and Natural Heritage",
+      "description": "Strengthen efforts to protect and safeguard the world's cultural and natural heritage",
+      "tender_keywords": ["heritage", "cultural", "monument", "archaeological", "conservation", "preservation", "biodiversity"],
+      "procurement_criteria": [
+        "Heritage impact assessment requirements",
+        "Archaeological survey before construction",
+        "Conservation of natural habitats",
+        "Biodiversity protection measures"
+      ]
+    },
+    {
+      "id": "11.5",
+      "name": "Disaster Risk Reduction",
+      "description": "By 2030, significantly reduce the number of deaths and people affected by disasters",
+      "tender_keywords": ["disaster", "flood", "earthquake", "resilience", "risk reduction", "emergency", "climate adaptation", "seismic"],
+      "procurement_criteria": [
+        "Disaster-resilient construction standards",
+        "Flood mitigation requirements",
+        "Seismic design specifications",
+        "Climate adaptation measures",
+        "Emergency preparedness planning"
+      ]
+    },
+    {
+      "id": "11.6",
+      "name": "Environmental Impact of Cities",
+      "description": "By 2030, reduce the adverse per capita environmental impact of cities, including air quality and waste management",
+      "tender_keywords": ["air quality", "pollution", "waste management", "municipal waste", "emissions", "dust control", "noise pollution", "AQI"],
+      "procurement_criteria": [
+        "Air quality monitoring during construction",
+        "Dust suppression measures",
+        "Noise pollution limits",
+        "Construction waste management plan",
+        "Emissions standards compliance",
+        "NAAQS (National Ambient Air Quality Standards) compliance"
+      ]
+    },
+    {
+      "id": "11.7",
+      "name": "Green and Public Spaces",
+      "description": "By 2030, provide universal access to safe, inclusive and accessible green and public spaces",
+      "tender_keywords": ["green space", "park", "public space", "open space", "garden", "recreation", "playground", "landscaping"],
+      "procurement_criteria": [
+        "Green space provisions in urban projects",
+        "Accessible public space design",
+        "Landscaping and tree plantation requirements",
+        "Universal accessibility standards"
+      ]
+    },
+    {
+      "id": "11.a",
+      "name": "Urban-Rural Linkages",
+      "description": "Support positive economic, social and environmental links between urban, peri-urban and rural areas",
+      "tender_keywords": ["rural", "peri-urban", "regional planning", "connectivity", "rural development"],
+      "procurement_criteria": [
+        "Regional connectivity provisions",
+        "Rural-urban integration measures",
+        "Supply chain sustainability from rural areas"
+      ]
+    },
+    {
+      "id": "11.b",
+      "name": "Resilience and Resource Efficiency",
+      "description": "Increase the number of cities adopting integrated policies for inclusion, resource efficiency, climate change mitigation and adaptation",
+      "tender_keywords": ["resource efficiency", "climate change", "mitigation", "adaptation", "integrated policy", "smart city"],
+      "procurement_criteria": [
+        "Climate change mitigation measures",
+        "Resource efficiency targets",
+        "Integrated sustainability planning",
+        "Smart city technology provisions"
+      ]
+    },
+    {
+      "id": "11.c",
+      "name": "Sustainable Buildings in LDCs",
+      "description": "Support least developed countries in building sustainable and resilient buildings utilizing local materials",
+      "tender_keywords": ["local materials", "sustainable building", "resilient construction", "local sourcing"],
+      "procurement_criteria": [
+        "Local material sourcing requirements",
+        "Sustainable building material specifications",
+        "Local labor and skill development provisions"
+      ]
+    }
+  ]
+}
